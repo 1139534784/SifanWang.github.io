@@ -30,17 +30,25 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/MSSP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Anomaly detection in structural dynamic systems via nonlinearity occurrence analysis using video data](https://www.sciencedirect.com/science/article/pii/S0888327024004047)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src='images/MSSP.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0888327024004047">Anomaly detection in structural dynamic systems via nonlinearity occurrence analysis using video data</a>
+  </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/MSSP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Anomaly detection in structural dynamic systems via nonlinearity occurrence analysis using video data](https://www.sciencedirect.com/science/article/pii/S0888327024004047)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src='images/AnotherImage.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    <a href="https://www.sciencedirect.com/science/article/pii/S1234567890123456">Another paper title for structural dynamic analysis</a>
+  </div>
+</div>
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
