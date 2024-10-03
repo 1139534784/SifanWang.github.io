@@ -37,6 +37,7 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   <div class='paper-box-text' markdown="1">
   [Anomaly detection in structural dynamic systems via nonlinearity occurrence analysis using video data](https://www.sciencedirect.com/science/article/pii/S0888327024004047)
     **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  </div>
 </div>
 
 <div class='paper-box'>
@@ -46,6 +47,7 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   <div class='paper-box-text' markdown="1">
   [Anomaly detection in structural dynamic systems via nonlinearity occurrence analysis using video data](https://www.sciencedirect.com/science/article/pii/S0888327024004047)
     **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  </div>
 </div>
 
 
