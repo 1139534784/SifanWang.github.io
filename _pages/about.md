@@ -24,9 +24,9 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
 
 
 # 🔥 News
-- *2024.05*: A new paper has been accepted by Mechanical Systems and Signal Processing.
-- *2024.03*: A new paper has been accepted by Smart Structures and Systems.
-- *2023.11*: A new paper has been accepted by Construction and Building Materials. 
+- *2024.05*: A new paper has been accepted by <em>Mechanical Systems and Signal Processing</em>.
+- *2024.03*: A new paper has been accepted by <em>Smart Structures and Systems</em>.
+- *2023.11*: A new paper has been accepted by <em>Construction and Building Materials</em>. 
 
 # 📝 Publications 
 
