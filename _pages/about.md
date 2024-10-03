@@ -16,10 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# Welcome!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I began my doctoral studies in the department of Engineering Mechanics and Energy at the University of Tsukuba in October 2022 and obtained my Doctor degree in September 2024. My dissertation, titled "Video-based Structural Damage Detection and Localization during Earthquake by Extracting Nonlinearity in Structural Dynamics," focused on innovative methods for structural health monitoring. During my time at the university, I was awarded the SPRING scholarship, supported by the Japan Science and Technology Agency. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences,you can click this link to check by <a href='https://scholar.google.com/citations?user=pY1WNrEAAAAJ'>google scholar</a>.
+My research interest includes <strong>Structural Health Monitoring</strong>, <strong>3D Computer Vision</strong>, <strong>Signal, Image and Video Processing</strong>, <strong>Structural Dynamic Analysis</strong>. I have published 5 journal papers and 2 conference papers,you can click this link to find more detail <a href='https://scholar.google.com/citations?user=pY1WNrEAAAAJ'>google scholar</a>.
 
 
 # 🔥 News
