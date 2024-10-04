@@ -41,9 +41,13 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   </div>
 </div>
 
-- [Review for vision-based structural damage evaluation in disasters focusing on nonlinearity]([https://github.com](https://www.techno-press.org/content/?page=article&journal=sss&volume=33&num=4&ordernum=2)
+- [Review for vision-based structural damage evaluation in disasters focusing on nonlinearity](https://www.techno-press.org/content/?page=article&journal=sss&volume=33&num=4&ordernum=2)
   <p><em>Smart Structures and Systems</em></p>
   <p><strong>Sifan Wang</strong>, Mayuko Nishio</p>
+
+- [Time-varying damage detection in beam structures using variational mode decomposition and continuous wavelet transform](https://www.sciencedirect.com/science/article/pii/S0950061823041351)
+  <p><em>Construction and Building Materials</em></p>
+  <p>Jingliang Liu, <strong>Sifan Wang</strong>, Yuzu Li, Anhua Yu</p>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
