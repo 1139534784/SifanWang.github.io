@@ -49,6 +49,14 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   <p><em>Construction and Building Materials</em></p>
   <p>Jingliang Liu, <strong>Sifan Wang</strong>, Yuzu Li, Anhua Yu</p>
 
+- [Time–Frequency Signal Processing for Integrity Assessment and Damage Localization of Concrete Piles](https://www.worldscientific.com/doi/abs/10.1142/S0219455420500200)
+  <p><em>International Journal of Structural Stability and Dynamics</em></p>
+  <p>Jingliang Liu, <strong>Sifan Wang</strong>, Jinyang Zheng, Chiaming Chang, Xiaojun Wei, Weixin Ren</p>
+
+- [Damage localization of piles based on complex continuous wavelet transform: Numerical example and experimental verification](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/8058640)
+  <p><em>Shock and Vibration</em></p>
+  <p>Wenting Zheng, <strong>Sifan Wang</strong>, Chengxu Lin, Xianying Yu, Jingliang Liu</p>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
