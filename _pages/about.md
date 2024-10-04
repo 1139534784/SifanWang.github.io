@@ -69,6 +69,10 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   <p><em>(Patent) No. ZL201922090133.3</em></p>
   <p>Jingliang Liu, <strong>Sifan Wang</strong></p> 
 
+- A method for extracting instantaneous frequency of time-varying structures
+  <p><em>(Patent) No. ZL202010478847.6</em></p>
+  <p>Jingliang Liu, Jiapeng Zheng, <strong>Sifan Wang</strong></p> 
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
