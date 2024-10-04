@@ -37,7 +37,7 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   <div class='paper-box-text' markdown="1">
   [Anomaly detection in structural dynamic systems via nonlinearity occurrence analysis using video data](https://www.sciencedirect.com/science/article/pii/S0888327024004047)
    <p><em>Mechanical Systems and Signal Processing</em></p>
-    <p><strong>Sifan Wang</strong>, Mayuko Nishio</p>
+   <p><strong>Sifan Wang</strong>, Mayuko Nishio</p>
   </div>
 </div>
 
