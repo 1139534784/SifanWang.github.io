@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Welcome!
 
-I began my doctoral studies in the department of Engineering Mechanics and Energy at the University of Tsukuba in October 2022 and obtained my Doctor degree in September 2024. My dissertation, titled "Video-based Structural Damage Detection and Localization during Earthquake by Extracting Nonlinearity in Structural Dynamics," focused on innovative methods for structural health monitoring. During my time at the University of Tsukuba, I was awarded the SPRING scholarship, supported by the Japan Science and Technology Agency. 
+I began my doctoral studies in the department of Engineering Mechanics and Energy at the University of Tsukuba in October 2021 and obtained my Doctor degree in September 2024. My dissertation, titled "Video-based Structural Damage Detection and Localization during Earthquake by Extracting Nonlinearity in Structural Dynamics," focused on innovative methods for structural health monitoring. During my time at the University of Tsukuba, I was awarded the SPRING scholarship, supported by the Japan Science and Technology Agency. 
 
 My research interest includes <strong>Structural Health Monitoring</strong>, <strong>3D Computer Vision</strong>, <strong>Signal, Image and Video Processing</strong>, <strong>Structural Dynamic Analysis</strong>. I have published 5 journal papers and 2 conference papers,you can click this link to find more detail <a href='https://scholar.google.com/citations?user=pY1WNrEAAAAJ'>google scholar</a>.
 
@@ -36,7 +36,8 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   </div>
   <div class='paper-box-text' markdown="1">
   [Anomaly detection in structural dynamic systems via nonlinearity occurrence analysis using video data](https://www.sciencedirect.com/science/article/pii/S0888327024004047)
-   <p><strong>Sifan Wang</strong>, Mayuko Nishio</p>
+   <p><em>Mechanical Systems and Signal Processing</em></p>
+    <p><strong>Sifan Wang</strong>, Mayuko Nishio</p>
   </div>
 </div>
 
