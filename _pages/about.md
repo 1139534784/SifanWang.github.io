@@ -57,6 +57,14 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   <p><em>Shock and Vibration</em></p>
   <p>Wenting Zheng, <strong>Sifan Wang</strong>, Chengxu Lin, Xianying Yu, Jingliang Liu</p>
 
+- [Damage Evaluation in Earthquake Events by Nonlinearity Extraction from Video Data: Experiment Verification](https://link.springer.com/chapter/10.1007/978-3-031-39117-0_75)
+  <p><em>(Conference) In International Conference on Experimental Vibration Analysis for Civil Engineering Structures (EVACES)</em></p>
+  <p><strong>Sifan Wang</strong>, Mayuko Nishio</p>
+
+- [Structural Nonlinearity Extraction from Video Data for Damage Evaluation in Earthquake Events: Experimental Verification](https://dpi-proceedings.com.destechpub.a2hosted.com/index.php/shm2023/article/view/36886)
+  <p><em>(Conference) STRUCTURAL HEALTH MONITORING 2023</em></p>
+  <p><strong>Sifan Wang</strong>, Mayuko Nishio</p> 
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
