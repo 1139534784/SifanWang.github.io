@@ -41,18 +41,9 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><img src='images/MSSP.png' alt="sym" width="100%"></div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  [Anomaly detection in structural dynamic systems via nonlinearity occurrence analysis using video data](https://www.sciencedirect.com/science/article/pii/S0888327024004047)
-    **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-  </div>
-</div>
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Review for vision-based structural damage evaluation in disasters focusing on nonlinearity]([https://github.com](https://www.techno-press.org/content/?page=article&journal=sss&volume=33&num=4&ordernum=2)
+  <p><em>Smart Structures and Systems</em></p>
+  <p><strong>Sifan Wang</strong>, Mayuko Nishio</p>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
