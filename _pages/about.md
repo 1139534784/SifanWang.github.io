@@ -65,6 +65,10 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   <p><em>(Conference) STRUCTURAL HEALTH MONITORING 2023</em></p>
   <p><strong>Sifan Wang</strong>, Mayuko Nishio</p> 
 
+- A new instantaneous characteristic parameter identification test device for time-varying structure
+  <p><em>(Patent) No. ZL201922090133.3</em></p>
+  <p>Jingliang Liu, <strong>Sifan Wang</strong></p> 
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
