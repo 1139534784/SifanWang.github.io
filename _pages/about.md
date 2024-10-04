@@ -74,16 +74,16 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   <p>Jingliang Liu, Jiapeng Zheng, <strong>Sifan Wang</strong></p> 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.04* Fellowship, Support for Pioneering Research Initiated by the Next Generation; 次世代SPRING (From 04.01.2022 to 03.31.2024). 
+- *2019.09* Excellent Student Scholarship of Fujian Agriculture and Forest University, Third Prize.
+- *2016.06* Structural Design Contest for college student in Dalian city, Third Prize.
+- *2016.05* Excellent Student of Liaoning Provincial Government Scholarship.
+- *2015.10* Excellent Student Scholarship of Dalian Jiaotong University, First Prize
+- *2015.09* The Innovation and Entrepreneurship for college students of Liaoning province, Silver prize
+- *2014.10* Excellent Student Scholarship of Dalian Jiaotong University, Third Prize
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10 - 2024.09*, Degree Program in Systems and Information Engineering, Graduate School of Science and Technology, Doctoral Program in Engineering Mechanics and Energy, University of Tsukuba, Ibaraki, Japan. 
+- *2017.09 - 2019.12*, Master degree of Engineering; College of Transportation and Civil Engineering, Fujian Agriculture and Forestry University, Fujian, China.
+- *2013.09 - 2017.06*, Bachelor degree of Engineering, Dalian Jiaotong University, Liaoning, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
